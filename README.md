@@ -42,7 +42,11 @@ ex) heart/i-ask-you
 - `<name>`은 명언의 제목 또는 핵심적인 단어로 정합니다.
 - 띄어쓰기를 구분할 때는 대시(`-`)를 사용합니다.
 ```
-ex) theme > heart > i-ask-you.md
+ex)
+── theme/
+   ├── heart/
+   │   └── i-ask-you.md
+   ...
 ```
 
 ### 4. 명언 작성하기
@@ -67,10 +71,10 @@ ex) theme > heart > i-ask-you.md
 ```
 
 ### 5. Main의 README.md에 작성한 명언 남기기
-- 아래 [명언 미리보기](#명언-미리보기)에 해당하는 주제 아래에 본인이 작성한 문장의 파일을 링크로 연결합니다.
+- 아래 [명언 미리보기](#-명언-미리보기)에 해당하는 주제 아래에 본인이 작성한 문장의 파일을 링크로 연결합니다.
 ```
 ex)
-'마음' 밑에 다음과 같이 작성하고 커밋합니다. (문장 마지막에 )
+'마음' 밑에 다음과 같이 작성하고 커밋합니다. (문장 마지막에 마침표는 찍지 않습니다)
 - [연탄재 함부로 발로 차지 마라. 너는 누구에게 한번이라도 뜨거운 사람이었느냐](./theme/heart/i-ask-you.md)
 ```
 
@@ -107,7 +111,7 @@ ex)
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=onealand/quotations-book"/>
+  <img src="https://contrib.rocks/image?repo=onealand/quotations-book"/>
 </a>
 
 <br>
