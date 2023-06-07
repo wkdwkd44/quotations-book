@@ -10,27 +10,36 @@
       <img src="https://img.shields.io/github/license/onealand/quotations-book?style=flat-square"/>
     </a>
   </div>
-  <br>
-  <span style="font-style: italic;">
-    <a href="https://github.com/onealand/quotations-book">한국어</a>
-    <span>/</span>
-    <a href="https://github.com/onealand/quotations-book/blob/main/lang/README-en.md">English</a>
-  </span>
 </div>
 
 <br>
 
 
-# 명언 백과사전
-살면서 와닿은 문장이나 명언이 있으셨나요? 감명 깊었던 문장이 있다면 이 곳, 명언 백과사전에 추가해보세요. 여러분의 눈 길을 멈추게 한 소중한 문장이 다른 누군가의 눈 길을 멈추게 할 수 있어요.
+# 📕 명언 백과사전
+살면서 와닿은 문장이나 명언이 있으셨나요? 감명 깊었던 문장이 있다면 이 곳, 명언 백과사전에 추가해보세요.   
+여러분의 눈길을 멈추게 한 소중한 문장이 다른 누군가의 눈길을 멈추게 할 수 있어요.
 
-# 방법
-1. 저장소 fork / clone
-2. 브랜치 만들기(<theme>/<name>)
-  name은 그 문장을 말한 사람이거나 문장에 핵심적인 단어를 사용.
-3. 한글/영어 버전으로 각각 readme.md 파일 만들기
+<br>
+
+## 🙌 명언 백과사전에 기여하는 방법
+
+### 1. 해당 레포지토리를 Fork하고 Clone하기
+- 해당 레포지토리를 먼저 Fork 합니다.
+- Fork한 레포지토리를 Clone하여 작업 준비 상태를 만듭니다.
+
+### 2. 브랜치 만들기
+- `<theme>/<name>` 형식으로 브랜치를 만듭니다.
+- `<theme>`은 문장의 주제와 관련된 단어를 작성합니다.
+- `<name>`은 작성하고자 하는 문장을 말한 인물 또는 문장의 핵심적인 단어를 사용합니다.
+```
+ex) heart/i-ask-you
+```
+
+### 3. 한국어 / 영어 버전으로 각각 README.md 파일 만들기
+- `theme` 디렉터리에 주제에 해당하는 
   만약 테마 디렉터리가 없다면 해당 디렉터리 생성 후 만들기
   디렉터리 새로 하나 만들기
+
 4. 명언 작성하기
   다음 커밋메시지 규칙에 따라 명언 작성
   [ADD]: message - 텍스트 추가했을 때 커밋메시지 (예시)
@@ -43,6 +52,7 @@
       부가 설명할 거 있으면 추가해도 됨. 안해도 됨.
     2. 영어 readme.md 파일에 한글 문장 번역한 감명 깊은 문장을 입력하고 커밋
     3. 해당 프로젝트 메인 readme.md에 본인의 문장 추가하기(한글/영어)
+
 5. Pull Request 생성하기
     1. 푸쉬해서 fork된 레포지토리에 올림
     2. 원래 프로젝트인 해당 프로젝트에 PR 생성
