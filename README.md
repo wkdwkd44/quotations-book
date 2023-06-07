@@ -1,8 +1,25 @@
-[백과사전 모양의 이미지]
-명언 백과사전
-감명 깊은 명언, 문장 등을 모아둔 명언 백과사전입니다.
-[버전] / [라이센스]
-한국어 / 영어
+<div align="center">
+  <div>
+    <img width="250" src="./images/quotations-book.png"/>
+    <h2>📕 명언 백과사전</h2>
+    <p>감명 깊은 명언, 문장 등을 수집합니다.</p>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
+    <a href="https://github.com/onealand/quotations-book/blob/main/LICENSE" target="_blank">
+      <img src="https://img.shields.io/github/license/onealand/quotations-book?style=flat-square"/>
+    </a>
+  </div>
+  <br>
+  <span style="font-style: italic;">
+    <a href="https://github.com/onealand/quotations-book">한국어</a>
+    <span>/</span>
+    <a href="https://github.com/onealand/quotations-book/blob/main/lang/README-en.md">English</a>
+  </span>
+</div>
+
+<br>
+
 
 # 명언 백과사전
 살면서 와닿은 문장이나 명언이 있으셨나요? 감명 깊었던 문장이 있다면 이 곳, 명언 백과사전에 추가해보세요. 여러분의 눈 길을 멈추게 한 소중한 문장이 다른 누군가의 눈 길을 멈추게 할 수 있어요.
